@@ -1,4 +1,7 @@
-# CU Boulder [CSCA 5622] Introduction to Machine Learning : Supervised Learning - Final Project: Stellar Classification
+# Stellar Classification Project
+
+CU Boulder [CSCA 5622] Introduction to Machine Learning : Supervised Learning - Final Project
+
 ### Project Overview
 
 This repository contains the final project for the **[CSCA 5652 : Introduction to Machine Learning: Supervised Learning](https://www.colorado.edu/cs/academics/online-programs/mscs-coursera/csca5622)** course at CU Boulder.
