@@ -37,9 +37,7 @@ This project is built using Python. You will need a working Python environment (
 2.  **Install dependencies:**
     It is highly recommended to use a virtual environment.
     ```bash
-    pip install -r requirements.txt  # If a requirements.txt file exists
-    # OR, manually install key dependencies
-    pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+    pip install -r requirements.txt
     ```
 
 ### Usage
