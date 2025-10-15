@@ -1,0 +1,16 @@
+# Data Handling and Analysis
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning and Preprocessing
+scikit-learn
+
+# Kaggle-specific Tools
+kagglehub
+
+# Development Environment (for running the .ipynb file)
+jupyter
